@@ -11,6 +11,8 @@ Behooked is an open source webhooks service that allows clients to register webh
   
   <br>
   <br>
+## Webhook Concept
+
   <img src="/sw_architecture.jpg" alt="sw_architecture_behooked" title="Behooked's Software Architecture">
   
   
